@@ -1,4 +1,4 @@
-# LIBERCOSOFT PORTFOLIO
+# CHOROPLETH MAP
 
 > A Choropleth map showing the percentage of adults over 25 years of age with a bachelor's degree or higher
 - If you like it please give it a Star⭐️, also you can follow:wink:
