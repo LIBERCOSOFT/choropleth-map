@@ -8,6 +8,7 @@
 
 - HTML
 - CSS
+- JAVASCRIPT
 - D3.JS
 
 
